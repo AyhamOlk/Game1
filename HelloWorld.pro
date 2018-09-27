@@ -9,3 +9,4 @@ HEADERS += \
     mainwidget.h \
     end.h
 //edited by us
+//change 2
