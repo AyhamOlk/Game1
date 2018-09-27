@@ -8,3 +8,4 @@ SOURCES += \
 HEADERS += \
     mainwidget.h \
     end.h
+//edited by us
